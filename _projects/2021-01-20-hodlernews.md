@@ -13,3 +13,4 @@ For those that don't know, HackerNews is basically a forum for nerds. People wor
 
 
 ## HackerNews for Crypto?
+I built HODLerNews to build the same kind of community for Crypto. There is no central place where people interested in Crypto, Web3 and DeFi go to discuss. There are tonnes of crypto related forums out there, but they are full of spammers and people trying to promote their own coin. My aim is to build a space where people can have serious discussions about the long-term trends around crypto, rather than just discussing the daily price moves. 
