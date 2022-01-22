@@ -2,10 +2,10 @@
 title: About Me
 subtitle: I'm Sunny, I'm a developer and occasionally I work on my own little projects
 description: I'm Sunny, I'm a developer and occasionally I work on my own little projects
-featured_image: /images/demo/blog-pic.jpg
+featured_image: /images/demo/sunny-pic.jpeg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/sunny-pic.jpeg)
 
 I've come to realise that some of the people that have had the most impact on my life - I've never met before. Reading Paul Graham's essays got me into the world of tech and startups. Reading Pieter Level's blog posts got me excited about the idea of working remotely and being able to travel and explore the world, while still working hard and progressing in your career. It's a big part of the reason I have a remote job now. 
 
