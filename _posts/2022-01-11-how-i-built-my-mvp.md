@@ -28,12 +28,17 @@ The next thing I wanted to build was a jobs board. In terms of implementation, t
 #### The Front End
 I realised that using HTML tables made laying out my job board page much, much easier. I then used sites like coolors.co. I took inspiration from the indie hackers website, and decided that darker = better. 
 
+![](/images/demo/indie-hackers.jpg)
+
+
 
 
 ### The Fancier Stuff
 
 #### Nested Comments
 The first challenge I had was trying to implement nested comments into my app. A nested comment is where a user can reply to a comment, and can create threads of nested comments that way. This was a situation where it took me much longer than expected. 
+
+![](/images/demo/nested-comments.jpg)
 
 #### Rich Text
 Rich text allows users to format the text when they’re writing on your site. This is meant to be very simple in rails. Action Text comes as standard, and you can just enable it. Except that no matter how hard I tried, I couldn’t make this work. Instead, I had to use an alternative called TinyMCE. 
@@ -46,6 +51,9 @@ Finally, there was payments. Initially, I actually went with Paddle instead of S
 There were a few extra things I needed to add to get my site ready for launch.The first thing i did was add analytics. I’m using segment.io and google analytics for this. Google analytics gives me a high level overview of how many people are on my site in real time, and how many people have visited for the day. Segment allows me to track behaviours. It allows me to see when someone has signed up.  The next thing I did was load testing my website. I wanted to know how much traffic I could handle, in case launch went really well (a guy can dream). Finally, I signed up for the 14 day trial of helpcrunch, so I could add a feedback box to my homepage. This allows users to report any bugs or things they don’t like, and means I can resolve these much quicker. 
 
 #### Putting it in the Hands of Users
+After doing all of this, I plucked up the courage to post about my new project on Hacker News. For those that don't know, Hacker News is a forum where nerds hang out. After posting on here, I was able to get some really valuable feedback from lots of different people. The Hacker News crowd tends to have a lot of technical expertise. 
+
+![](/images/demo/hn_feedback.jpg)
 
 
 #### Conclusion - Building Brick by Brick
