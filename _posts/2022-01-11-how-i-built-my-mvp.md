@@ -20,6 +20,8 @@ I love programming in Ruby. It’s the first programming language I learned and 
 #### Build a Reddit Clone Tutorial
 At its core, the product I wanted to build was a forum. So I found a reddit clone tutorial on YouTube, and followed it step by step. This turned out to be very useful, because the tutorial included bits of code that I would have never been able to add myself. For example, this snippet of code deals with ranking posts on the homepage. While I’m sure I would’ve got around to this, I’m not sure I would have had this kind of system ready for the MVP, had I not come across this great tutorial.
 
+![]({{ site.baseurl }}/images/demo/hot-score.jpg)
+
 
 #### Build a Job Board
 The next thing I wanted to build was a jobs board. In terms of implementation, this was pretty similar to implementing the normal posts. 
