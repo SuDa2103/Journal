@@ -5,7 +5,7 @@ date: 2022-01-20 00:00:00
 featured_image: '/images/demo/hodlernews_featured.jpg'
 ---
 
-![](/images/demo/hodlernews_featured.jpg)
+![]({{ site.baseurl }}/images/demo/hodlernews_featured.jpg)
 
 ## HackerNews?
 
