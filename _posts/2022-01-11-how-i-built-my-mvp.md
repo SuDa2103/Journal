@@ -5,7 +5,7 @@ featured_image: '/images/demo/hodlernews_featured.jpg'
 excerpt: If this project taught me anything, it’s how far you can get by just starting small, and adding things one by one.
 ---
 
-![](/images/demo/hodlernews_featured.jpg)
+![]({{ site.baseurl }}/images/demo/hodlernews_featured.jpg)
 
 #### TL;DR
 * I started with the programming language and framework I was most familiar with, which in my case is Ruby on Rails. Sounds obvious, but a lot of people go out and try to learn the hot, new technology out there. 
