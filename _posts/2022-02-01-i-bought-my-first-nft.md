@@ -18,20 +18,19 @@ I was watching a Noah kagan video where he interviews NFT experts, and one of th
 
 
 #### Why I Took the Plunge
-At its core, the product I wanted to build was a forum. So I found a reddit clone tutorial on YouTube and followed it step by step. This turned out to be very useful because the tutorial included bits of code that I would have never been able to add myself. For example, this snippet of code deals with ranking posts on the homepage. While I’m sure I would’ve got around to this, I’m not sure I would have had this kind of system ready for the MVP, had I not come across this great tutorial.
-
-![]({{ site.baseurl }}/images/demo/hot-score.jpg)
+The Unfold team, who are behind the Dronies project, are very experienced. I thought the actual artwork looked super slick. It's very hard to predict what becomes cool, but there were some promising signs when it came to Dronies. They were being talked about, every YouTube video I saw about them was positive, and Shaq had even tweeted about the project!
 
 
 #### My Failed Mint
 Initially, I joined the discord with high hopes of minting a Dronie when the project launched. Unfortunately, I had decided I would buy one only a day before launch, so I was too late to try and get myself a pre-launch token by being active in the discord chats, and buying one in the pre-launch. 
 
-No bother, I logged on for what I thought was the launch time to see if I could grab myself a dronie. 
+No bother, I logged on for what I thought was the launch time to see if I could grab myself a dronie. But no, I had got the wrong time! It turns out 12 noon was the start of the pre-launch, and the pre-launch would go on for 8 hours!
+
+There were 10,000 dronies to begin with, and watching the number of Dronies available to mint go down over the course of these 8 hours was excruciating. 
 
 
 #### On to the Backup Plan
-So after the disappointment of not being able to mint a Dronie, I went to the secondary market on Magic Eden 
-
+So after the disappointment of not being able to mint a Dronie, I went to the secondary market on Magic Eden. I had trasnferred exactly 7 Solana tokens into my account, so that I could buy some Dronies. I had this much to play around with. I knew I'd have to pay a bit of a premium but I wanted to hold on to this project for the long-term, so I was okay with that. 
 
 
 #### Rarity
