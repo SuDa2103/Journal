@@ -2,7 +2,7 @@
 title: 'I Bought my First NFT! Here is How and Why'
 date: 2022-02-03 00:00:00
 featured_image: '/images/demo/my_dronie.jpg'
-excerpt: I completely understand the argument that NFTs in their current form are very overhyped and may well be in a bubble. But I think its important not to make the mistake of thinking that these projects and their utility won’t evolve over time.
+excerpt: I completely understand the argument that NFTs in their current form are very overhyped and may well be in a bubble. But I think it's important to realise that these projects and the utility they provide will evolve over time. 
 ---
 
 ![]({{ site.baseurl }}/images/demo/my_dronie.jpg)
@@ -60,6 +60,6 @@ As I said, I am genuinely quite interested in the roadmap that the Unfold team h
 #### Down the Rabbit Hole
 But the main thing this project and the hype around it did for me is that it opened up my eyes to all the cool things going on in the world of NFTs.
 
-I completely understand the argument that NFTs in their current form are very overhyped and may well be in a bubble. But I think it's important to realise that these projects and the utility they provide will evolve over time. 
+I completely understand the argument that NFTs in their current form are very overhyped and may well be in a bubble. But I think it's important to realise that these projects and the utility they provide will evolve over time. I think projects like Dronies are moving in the right direction. There is enough on their roadmap to assure me that I am not paying this money purely for the image. 
 
 I'm now following a few people from the Solana and Terra NFT spaces in particular, and am keen to see if there are any new projects I can look into. 
